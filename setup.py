@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-micahks", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="micahks",
     description="A collection of data science funtions",
     long_description=long_description,
