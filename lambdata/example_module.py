@@ -4,6 +4,9 @@
 import pandas as pd
 import numpy as np
 
+COLORS = ["cyan", "yellow", "mustard"]
+FAVORITE_NUMBERS = [2, 3, 45, 53, 2.3]
+
 
 class MyDataFrame(pd.DataFrame):
     def state_abb(self, col):
